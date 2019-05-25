@@ -7,53 +7,51 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Madhur Yadav
+    tagline: Software Developer | ML enthusiast
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: madhur.yadav7@gmail.com
+    phone: +91-8085847702
+    website: www.hackerearth.com/@madhur.yadav7
+    linkedin: madhur-yadav-593b7020
+    github: madhurkgp
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@madhuryadav7'
+    stack-overflow: 7965340/madhur-yadav
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: Working out
         link:
 
-      - item: Snowboarding
+      - item: Travelling
         link:
 
-      - item: Cooking
+      - item: Exploring new things
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+     Hi, my name is Madhur Yadav and I'm a Software Developer and ML enthusiast. 
+     - 2 years of experience in software development with major focus in Python, Machine Learning, Natural Language Processing, AWS,Elasticsearch, Logstash, Filebeat and related technologies.
+     - Experience in developing NLP based models for text extraction.
+     - Expertise in writing python and pandas code, performance improvement of python code and code structuring/designing.
+     - Strong command over generic python libraries and functions.
+     - Excellent communication, interpersonal and analytical skills and highly motivated team player.
+     - Ability to learn and adapt quickly to emerging new technologies and paradigms. Learned many technologies on job as per the project requirement.
 
 education:
     - degree: MSc in Computer Science
@@ -178,22 +176,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Pandas
         level: 98%
 
-      - name: Angular
+      - name: NLP
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: C
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: C++
+        level: 85%
+
+      - name: JAVA
         level: 60%
 
 footer: >
