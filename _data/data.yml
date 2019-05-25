@@ -53,24 +53,22 @@ career-profile:
      - Excellent communication, interpersonal and analytical skills and highly motivated team player.
      - Ability to learn and adapt quickly to emerging new technologies and paradigms. Learned many technologies on job as per the project requirement.
 
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+     I am most skilled in: <mark>Python</mark> , <mark>Pandas</mark> and <mark>NLP</mark>
 
-          - Bullet point
-          - Bullet point
+education:
+    - degree: Master of Technology in Computer Science and Data Processing
+      university: Indian Institute of Technology, Kharagpur
+      Duration: Jul 2015 - May 2017
+      GPA: 8.49/10.0
+      Thesis: |
+        Information Extraction using SVM with uneven margins and Twitter sentiment Analysis with NLP tools
+      Relevant Coursework: | # this will include new lines to allow paragraphs
+       Artificial Intelligence | Operating Systems | Data Structures and Algorithms | Computer Networks | Object Oriented Programming | Database Management Systems
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
-      time: 2007 - 2011
-      details: |
+      Duration: 2007 - 2011
+      Thesis: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -82,7 +80,7 @@ education:
 
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
+      Duration: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -99,7 +97,7 @@ experiences:
           - Bullet point
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
+      Duration: 2014 - 2015
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -112,7 +110,7 @@ experiences:
           - Bullet point
 
     - role: UI Developer
-      time: 2012 - 2014
+      Duration: 2012 - 2014
       company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -194,5 +192,3 @@ skills:
       - name: JAVA
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
